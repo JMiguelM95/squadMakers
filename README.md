@@ -12,6 +12,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 
 Java 8+
+
 IDE [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) o el de tu preferencia
 
 Instalar [Python](https://www.python.org/)
