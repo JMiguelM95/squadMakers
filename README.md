@@ -12,16 +12,21 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 
 Java 8+
-IDE [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) o el de tu preferencia.
-Instalar [Python](https://www.python.org/)
-Instalar [Git](https://git-scm.com/)
-Descargar [Chrome Driver](https://chromedriver.chromium.org/) respectivo a su version de Chrome, e instalar en la ruta del proyecto clonado -> drivers
-*Recordar de agregar las variables de entorno si es necesario
+IDE [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) o el de tu preferencia_
+
+Instalar [Python](https://www.python.org/)_
+
+Instalar [Git](https://git-scm.com/)_
+
+Descargar [Chrome Driver](https://chromedriver.chromium.org/) respectivo a su version de Chrome, e instalar en la ruta del proyecto clonado -> drivers_
+
+*Recordar de agregar las variables de entorno si es necesario_
 
 
 
 ### Instalación 🔧
 
+```
 _Para este caso solo se necesitara hacer los pasos comunes de clonacion de proyecto con Git_
 
 _1. Abrir el IDE e irnos a la opcion de VSC que se encuentra en la parte superior o si es tu primera vez en PyCharm, seleccionaremos la opcion Get from VCS_
@@ -39,7 +44,7 @@ _6. En Location, buscaremos la ruta de la carpeta de Python310 (en mi caso, que 
 _7. Luego siempre en Python Interpreter, seleccionaremos la opcion de Install +, e instalaremos selenium, behave, gherkin-oficial._
 
 _8. Ya estaremos listos para ejecutar el proyecto._
-
+```
 
 ## Ejecutando las pruebas ⚙️
 
