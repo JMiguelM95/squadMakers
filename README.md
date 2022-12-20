@@ -6,17 +6,11 @@ _El proyecto se basa en la automatización del sitio https://www.saucedemo.com/.
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos personales._
 
-### Documentacion del Proyecto 📋
-
-```
-Ingresar a la ruta /YOUR-REPOSITORY/resources/docs/
-```
-
 ### Pre-requisitos 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
-```
+
 Java 8+
 IDE [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) o el de tu preferencia.
 Instalar [Python](https://www.python.org/)
@@ -24,7 +18,7 @@ Instalar [Git](https://git-scm.com/)
 Descargar [Chrome Driver](https://chromedriver.chromium.org/) respectivo a su version de Chrome, e instalar en la ruta del proyecto clonado -> drivers
 *Recordar de agregar las variables de entorno si es necesario
 
-```
+
 
 ### Instalación 🔧
 
